@@ -1,0 +1,9 @@
+{
+  "name": "saldus-opportunity-finder",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Saldus Opportunity Finder with server-side AI assistant",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
