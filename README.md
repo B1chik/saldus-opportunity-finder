@@ -16,3 +16,4 @@ Optional: `OPENAI_MODEL=gpt-4.1-mini` (default). API usage incurs charges separa
 - Before public promotion, add authentication or abuse protection, rate limits, spending caps and monitoring to control API cost. Add privacy information and retention policies if storing chats.
 - A standalone local `index.html` opened as `file://` cannot use the serverless AI route; it must be deployed.
 - No API key is included.
+Website deployment update
